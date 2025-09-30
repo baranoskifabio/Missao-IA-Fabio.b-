@@ -58,11 +58,12 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Qual melhor goleiro que já passou pelo futebol?"
+
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Manuel Peter Neuer "
+                afirmacao: "Você prioriza conquistas e como atuou no futebol."
             },
             {
                 texto: " Texto/resposta ",
