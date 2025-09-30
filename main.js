@@ -32,15 +32,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Quem merece a bola de ouro 2025?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Masour Ousmane Dembélé"
+                afirmacao: "Você valoriza a criatividade e companheirismo."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Raphael Dias Belloli (Raphinha)"
+                afirmacao: "Você valoriza o trabalho duro e esforço.",
             }
         ]
     },
