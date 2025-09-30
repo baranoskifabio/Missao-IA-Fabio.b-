@@ -66,8 +66,8 @@ const perguntas = [
                 afirmacao: "Você prioriza conquistas e como atuou no futebol."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Lev Ivanovich Yashin "
+                afirmacao: "Você prioriza atuações, qualidade e prêmios individuais."
             }
         ]
     },
