@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Você prefere qual tipo de Centroavante?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Karim Mostafa Benzema",
+                afirmacao: "Você prefere um atacante que participa da jogada."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Robert Lewandowski"
+                afirmacao: "Você prefere um centroavante matador."
             }
         ]
     },
