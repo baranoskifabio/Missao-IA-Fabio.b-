@@ -23,8 +23,8 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Quem é o maior ídolo da seleção brasileira?"
-        alternativas: [
+        enunciado: "Quem é o maior ídolo da seleção brasileira?" ,
+        alternativas: [ 
             {
                 texto: "Neymar da Silva Santos Júnior",
                 afirmacao: "Você valoriza o impacto e habilidades. "
@@ -62,7 +62,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual melhor goleiro que já passou pelo futebol?"
+        enunciado: "Qual melhor goleiro que já passou pelo futebol?" ,
 
         alternativas: [
             {
