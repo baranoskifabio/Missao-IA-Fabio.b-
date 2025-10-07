@@ -43,7 +43,7 @@ const perguntas = [
                 afirmacao: "Você valoriza a criatividade e companheirismo."
             },
             {
-                texto: " Raphael Dias Belloli (Raphinha)"
+                texto: "Raphael Dias Belloli (Raphinha)"
                 afirmacao: "Você valoriza o trabalho duro e esforço.",
             }
         ]
@@ -66,13 +66,21 @@ const perguntas = [
 
         alternativas: [
             {
-                texto: "Manuel Peter Neuer "
+                texto: "Manuel Peter Neuer"
                 afirmacao: "Você prioriza conquistas e como atuou no futebol."
             },
             {
-                texto: " Lev Ivanovich Yashin "
+                texto: "Lev Ivanovich Yashin"
                 afirmacao: "Você prioriza atuações, qualidade e prêmios individuais."
             }
         ]
     },
 ];
+
+let atual = 0
+let perguntaAtual;
+
+function mostraPergunta(){
+    perguntaAtual = perguntas [atual]
+    caixaPerguntas.textContent = perguntaAtual.enunciado;
+}
