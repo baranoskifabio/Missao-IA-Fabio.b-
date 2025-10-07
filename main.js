@@ -17,7 +17,7 @@ const perguntas = [
 
             },
             {
-                texto: "Lionel Andrés Messi Cuccittini" 
+                texto: "Lionel Andrés Messi Cuccittini" ,
                 afirmacao: "Você valoriza o talento, trabalho duro e nunca desiste."
             }
         ]
@@ -26,11 +26,11 @@ const perguntas = [
         enunciado: "Quem é o maior ídolo da seleção brasileira?"
         alternativas: [
             {
-                texto: "Neymar da Silva Santos Júnior"
+                texto: "Neymar da Silva Santos Júnior",
                 afirmacao: "Você valoriza o impacto e habilidades. "
             },
             {
-                texto: "Edson Arantes do Nascimento (Pelé)"
+                texto: "Edson Arantes do Nascimento (Pelé)" ,
                 afirmacao: "Você valoriza a história e conquistas."
             }
         ]
@@ -39,11 +39,11 @@ const perguntas = [
         enunciado: "Quem merece a bola de ouro 2025?",
         alternativas: [
             {
-                texto: "Masour Ousmane Dembélé"
+                texto: "Masour Ousmane Dembélé" ,
                 afirmacao: "Você valoriza a criatividade e companheirismo."
             },
             {
-                texto: "Raphael Dias Belloli (Raphinha)"
+                texto: "Raphael Dias Belloli (Raphinha)" ,
                 afirmacao: "Você valoriza o trabalho duro e esforço.",
             }
         ]
@@ -56,7 +56,7 @@ const perguntas = [
                 afirmacao: "Você prefere um atacante que participa da jogada."
             },
             {
-                texto: "Robert Lewandowski"
+                texto: "Robert Lewandowski" ,
                 afirmacao: "Você prefere um centroavante matador."
             }
         ]
@@ -66,11 +66,11 @@ const perguntas = [
 
         alternativas: [
             {
-                texto: "Manuel Peter Neuer"
+                texto: "Manuel Peter Neuer" ,
                 afirmacao: "Você prioriza conquistas e como atuou no futebol."
             },
             {
-                texto: "Lev Ivanovich Yashin"
+                texto: "Lev Ivanovich Yashin" ,
                 afirmacao: "Você prioriza atuações, qualidade e prêmios individuais."
             }
         ]
