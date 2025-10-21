@@ -113,7 +113,7 @@ function respostaSelecionada(opcaoSelecionada){
     mostraPergunta();
 }
 function mostraResultado(){
-    caixaPerguntas.textContent = "Ao analisar sua escolha, determinamos que você....... ";
+    caixaPerguntas.textContent = "Ao analisar sua escolha, determinamos que você... ";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = " ";
 }
